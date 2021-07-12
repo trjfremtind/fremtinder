@@ -1,0 +1,15 @@
+
+.navbar {
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	background-color: #EEE;
+}
+
+.navbar-content {
+	text-align: center;
+	align-items: center;
+}
+
+
